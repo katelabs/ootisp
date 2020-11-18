@@ -35,6 +35,6 @@ void MainWindow::paintEvent(QPaintEvent *event){
 
     painter.rotate(90);
     painter.setFont(QFont("Light", 12));
-    painter.drawText(QPoint(40, -40), "Lab 10: Graphic primitives of the QT Library");
+    painter.drawText(QPoint(40, -40), "Lab 1: Graphic primitives of the QT Library");
 
 }
